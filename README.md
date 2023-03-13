@@ -1,3 +1,3 @@
 # WebTest
 
-My web page
+My cool web page
